@@ -5,15 +5,11 @@
 
 - 🌱 I’m currently learning **Django and Data Science**
 
-- 👯 I’m looking to collaborate on [Budibase](https://github.com/Budibase/budibase)
-
-- 🤝 I’m looking for help with [Superset](https://github.com/apache/superset)
+- 👯 I’m looking to collaborate as Bakend
 
 - 👨‍💻 All of my projects are available at [https://gerick.dev](https://gerick.dev)
 
-- 📝 I regularly write articles on [https://blog.gerick.dev](https://blog.gerick.dev)
-
-- 💬 Ask me about **Python, Azure, Data Pipelines, Web-Scraping**
+- 💬 Ask me about **Python, Azure, Data Pipelines, Web-Scraping, Linux**
 
 - 📫 How to reach me **me@gerick.dev**
 
