@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Gerick Toro:
-🔭 I’m currently working on Centinela (personal project)<br>🌱 I’m currently working with Data and AI<br>👯 I’m looking to collaborate as Python Generalist or Python Data Scientist<br>👨‍💻 All of my projects are available at https://gerick.dev<br>💬 Ask me about Python, Azure, Data Pipelines, Web-Scraping, Linux<br>📫 How to reach me me@gerick.dev<br>📄 Know about my experiences https://www.linkedin.com/in/gerickt/<br>⚡ Fun fact I love videogames, I also do them using Unity
+🔭 I’m currently working on Monotron (personal project)<br>🌱 I’m currently working with Data and AI<br>👯 I’m looking to collaborate as Python Generalist or Python Data Scientist<br>👨‍💻 All of my projects are available at https://gerick.dev<br>💬 Ask me about Python, Azure, Data Pipelines, Web-Scraping, Linux<br>📫 How to reach me me@gerick.dev<br>📄 Know about my experiences https://www.linkedin.com/in/gerickt/<br>⚡ Fun fact I love videogames, I also do them using Unity
 
 
 ## 🌐 Socials:
