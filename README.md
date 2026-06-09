@@ -1,12 +1,5 @@
 <div align="center">
 
-<pre>
-╔══════════════════════════════════════════════════╗
-║  gerick@gerick.dev ~> whoami                     ║
-║  > Data & AI Engineer · Founder · FOSS Advocate  ║
-╚══════════════════════════════════════════════════╝
-</pre>
-
 # Gerick Toro Rodríguez
 
 **Building Agentic AI systems and data pipelines — from concept to production at national scale.**
