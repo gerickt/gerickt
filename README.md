@@ -21,7 +21,7 @@
 
 - 🤖 **Focus:** Agentic AI · LLMs · Data Engineering · NLP / Social Listening
 - 🏛️ **Recent:** Digital Strategy Lead at Bolivia's Ministry of the Presidency — led national Agentic AI program
-- 🛰️ **Venture:** Building [Omendata](https://omendata.pro) — Big Data & media intelligence consulting
+- 🛰️ **Venture:** Building [SKOPOS](https://skopos.gerick.dev) — Big Data & media intelligence consulting
 - 🎓 **Education:** Systems Engineering · MBA · MSc Artificial Intelligence *(in progress)*
 - 📍 **Location:** La Paz, Bolivia · Open to senior remote Data & AI roles
 - 🎮 **Fun fact:** US Embassy IVLP Fellow '21 for Video Games & STEAM. I make them too — Unity/C#.
